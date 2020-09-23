@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Mi nombre es Yany Yolanda Gómez Rodríguez, 
 CEAD Cubará
 Escuela de ciencias básicas tecnología e ingeniería (ECBTI)
@@ -8,3 +9,25 @@ Mi correo personal es : yanygomez28@gmail.com
 Skype: Yany Gomez
 Nº Celular: 312 400 4057
 Gracias.
+=======
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+	<meta charset="utf-8">
+	<title>Borrador del CONTENIDO HTML<title>
+
+</head>
+
+<body>
+
+ <nav>
+   <ul class="menu">
+    <li><a href="Planing.html"> borrador</li></a>
+   </ul>
+  </nav>
+
+	</body>
+ </html>
+>>>>>>> 2cb5c31030818fdd0572d0d114f6e8fc58c9f8d1
